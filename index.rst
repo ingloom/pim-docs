@@ -37,7 +37,7 @@ Once a Family is created, you can create products organized in one or multiples 
 for example "Tesla Model X" in "electrical motorization" category.
 
 Most of the time, we export data to various destinations: an eCommerce website, a mobile application, or a paper catalog.
-You can use Channels to provide a different data for each product according to the selected destination.
+You can use Channels to provide different data for each product according to the selected destination.
 
 When you start a PIM project, the first task to do is to build the structure of the data from a "functional" point of view.
 
